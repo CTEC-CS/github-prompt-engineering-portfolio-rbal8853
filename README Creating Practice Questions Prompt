@@ -53,17 +53,15 @@ The prompt can be used for almost anything you need practice questions for
 
 ## Limitations & Considerations
 **What This Prompt Does Well:**
-- [Strength 1]
-- [Strength 2]
-- [Strength 3]
+- good questions given
+- understands most topics
+- provides a good layout
 **What Requires Human Judgment:**
-- [Limitation 1]
-- [Limitation 2]
-- [Limitation 3]
+- some questions can be wrong
+- they arent always about the specific topic
 **Always:**
-- [Best practice 1]
-- [Best practice 2]
-- [Best practice 3]
+- still do your research
+- provide clear examples
 ---
 ## Technical Details
 **Framework:** Rise
