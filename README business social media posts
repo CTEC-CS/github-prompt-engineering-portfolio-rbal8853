@@ -1,0 +1,76 @@
+# Business social media posts
+
+>* This prompt helps people create posts for businesses on social media
+
+## Overview
+This prompt produces a image of a post to help businesses that are short on time reach out to the community
+
+It solves the problem of time and businesses not having time to post things
+
+**Best For :**
+- marketing
+- prototyping for different posts
+- Designing Ads
+
+**Output**
+-
+- A typical output looks like an image of a post that has the same colors and design types you ask for 
+- ## Quick Start
+### 1. Copy the prompt
+Create a social media post on [social media platform] for a business called [business
+name] that sells [what the business sells], make the design of it more [modern, rustic,
+etc] and have it appeal to [teens, older people, parents, etc]. The main colors of this
+post should be [color pallet] and make the text on the post be clear and centered around
+the product that's being sold. I want the length of the post to be [length of post]
+### 2. Fill in placeholders
+Replace these with your specific information:
+- [social media platform] - what social media platform you are making the post for
+- [business name] - the name of your business
+- [what the business sells] - what your business sells
+- [modern, rustic, etc] - what you want your design to look like
+- [teens, older people, parents, ect] - who you want to appeal to/ your clientele
+- [color pallet] - what colors you want for this post
+- [length of post] - how many letters or words you want in the post
+
+## Example Use Cases
+See the `examples/` folder for three complete demonstrations:
+1. **[monkey boys](./examples/example-1.md)** -Making an Instagram
+post for a business
+called monkey boys that
+sells bananas
+2. **[I am Root](./examples/example-2.md)** -A Facebook post that is galaxy themed and sells trees straight to your
+house, the business name is I am Root.
+3. **[Shocking results](./examples/example-3.md)** - Sells outlet covers business name is
+“shocking results”
+
+
+Each example shows the filled prompt and resulting output.
+---
+## What Makes This Prompt Effective
+**easy to use:**
+The placeholders are clear and has good direction  
+
+**Accurate:**
+There is a lot of details so the AI knows almost exactly what you want  
+
+**Reusable**
+The prompt can be used for almost anything you need practice questions for
+
+
+## Limitations & Considerations
+**What This Prompt Does Well:**
+- good questions given
+- understands most topics
+- provides a good layout
+**What Requires Human Judgment:**
+- some colors or words can be wrong
+- they aren't always about the specific topic
+**Always:**
+- check the spelling
+- provide clear examples
+---
+## Technical Details
+**Framework:** ERA
+**Optimal Model:** Google Gemini works well
+**Average Response Length:** depends on how long you want it, wont go over amount of works you ask
+**Required Placeholders:** all of them if you want it to be accurate
