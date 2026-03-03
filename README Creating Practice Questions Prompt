@@ -1,5 +1,7 @@
 
 
+
+
 # Creating Practice Questions
 
 >* This prompt helps people study with practice questions
@@ -13,3 +15,58 @@ It solves the problem of people not knowing how to study, it allows them to stud
 - Studying for a school test
 - Learning new concepts
 - Studying for work
+
+**Output**
+-
+- A typical output looks like the practice Questions with answers that go along with what you are studying and what level you are at with it and what you are specifically learning  
+- ## Quick Start
+### 1. Copy the prompt
+I am a student studying [class/what you're studying for]. The class is for [grade/ skill level you want to learn] and right now we are learning about[subject you want to learn more about]. I am a [stage you're at with the concept] in this field. Provide [how many practice questions you want] practice questions for the subject I am currently working on based on my grade and skill level. Some examples of questions I want to be included are [at least 2 questions you want]. I want it to be formatted with [ multiple choice, writing prompts, etc]
+### 2. Fill in placeholders
+Replace these with your specific information:
+- `[class/what you're studying for]` - you will put the name of the class you want practice question for, or what you are interested in learning.
+- `[grade/skill lever you want to learn]` - you will put what your grade number is, or how far along you are with learning the skill
+- `[Subject you want ot learn more about]` - you will put the certain things you are learning about in the class, or the specific things you want to know/learn
+- [Stage you are at with the concept] - you will put how much you know, if you are a beginner, intermediate, or anything else.
+- [how many practice questions you want] - you will put the number of questions you want in the practice test
+- [at least two questions for the subject] - two questions you want on the test that are relevant to the subject
+- [multiple choice, writing prompts, etc]  -you will put how you want it to be formatted
+
+## Example Use Cases
+See the `examples/` folder for three complete demonstrations:
+1. **[Art principles](./examples/example-1.md)** -gives practice questions for a beginner in learning art principles
+2. **[Psychology](./examples/example-2.md)** -gives practice questions to a student studying psychology in college
+3. **[math test](./examples/example-3.md)** - a kid in 4th grade is studying for a math test
+
+Each example shows the filled prompt and resulting output.
+---
+## What Makes This Prompt Effective
+**easy to use:**
+The placeholders are clear and has good direction  
+
+**Accurate:**
+There is a lot of details so the AI knows almost exactly what you want  
+
+**Reusable**
+The prompt can be used for almost anything you need practice questions for
+
+
+## Limitations & Considerations
+**What This Prompt Does Well:**
+- [Strength 1]
+- [Strength 2]
+- [Strength 3]
+**What Requires Human Judgment:**
+- [Limitation 1]
+- [Limitation 2]
+- [Limitation 3]
+**Always:**
+- [Best practice 1]
+- [Best practice 2]
+- [Best practice 3]
+---
+## Technical Details
+**Framework:** Rise
+**Optimal Model:** Google Gemini works well
+**Average Response Length:** depends on the amount of questions, usually over 100 words
+**Required Placeholders:** all of them if you want it to be accurate
