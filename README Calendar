@@ -1,0 +1,74 @@
+# Calendar
+
+>* This prompt helps people create a calendar to include all of the things they must do
+## Overview
+This prompt produces a calendar for anything the need to do in a given timeframe
+
+It solves the problem of time management, and staying bust while still having time to yourself
+
+**Best For :**
+- When trying to plan a summer vacation
+-  When a business owner has a lot to do
+-  When a student want a calendar for all their course work
+
+
+**Output**
+-
+- A typical output looks like a calendar  with each thing you must to that time frame you give it
+- ## Quick Start
+### 1. Copy the prompt
+Generate a calendar for [ TIME_PERIOD ] that includes [ CALENDAR_IMPUT ] [what
+TIME_FOR_COMPLETION ] Make it easy to change and readable, make it in a
+[FORMAT_LIKE_GOOGLE_SHEETS] with the correct formatting for that specific place.
+I would like [EXCLUDED_DAYS] without anything on them, and I want to use my time
+each day to its fullest potential. Make the calendar [STYLE]
+### 2. Fill in placeholders
+Replace these with your specific information:
+- [TIME_PERIOD} - what month, year, week, or time period you want the calendar to be in
+- [CALENDAR_IMPUT] - what you want to be in the calendar
+- [what TIME_FOR_COMPLETION] - when you want everything done by, weekly, daily, times
+- [FORMAT_LIKE_GOOGLE_SHEETS]- what you want the calendar to be presented in
+- [EXCLUDED_DAYS] days you don't want anything in
+- [STYLE] - what you want the calendar to look like
+
+## Example Use Cases
+See the `examples/` folder for three complete demonstrations:
+1. **[students calendar](./examples/example-1.md)** -A normal calendar for a
+student, with rest days
+and subject deadlines
+2. **[Bakery calendar](./examples/example-2.md)** -A calendar for a bakery
+owner
+3. **[Summer calendar](./examples/example-3.md)** - A calendar for a month
+during summer
+
+
+Each example shows the filled prompt and resulting output.
+---
+## What Makes This Prompt Effective
+**easy to use:**
+The placeholders are clear and has good direction  
+
+**Accurate:**
+There is a lot of details so the AI knows almost exactly what you want  
+
+**Reusable**
+The prompt can be used for almost anything you need practice questions for
+
+
+## Limitations & Considerations
+**What This Prompt Does Well:**
+- good questions given
+- understands most topics
+- provides a good layout
+**What Requires Human Judgment:**
+- some colors or words can be wrong
+- they aren't always about the specific topic
+**Always:**
+- check the spelling
+- provide clear examples
+---
+## Technical Details
+**Framework:** no formal framework
+**Optimal Model:** Google Gemini works well
+**Average Response Length:** depends on how long you want it, wont go over amount of works you ask
+**Required Placeholders:** all of them if you want it to be accurate/).
