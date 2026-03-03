@@ -1,1 +1,75 @@
+# Project Planning Assist
+
+>* This prompt helps people create plans for projects
+
+## Overview
+This prompt produces a plan for people who don't know where to start, or people who want to lay things out in the most timely manner
+
+It solves the problem of people not being organized and helps projects get done quicker and easier because of the organization
+
+**Best For :**
+- School clubs
+- Fast paced event planning
+- Small business planning
+
+**Output**
+-
+- A typical output looks like the plan on whatever document you specify, and the people in charge of each action
+- ## Quick Start
+### 1. Copy the prompt
+Make a plan for [project description] with deadlines, the entire project has to be done at
+[timeline] and there are [how many people] working in the group. The specific roles are
+[roles] Make the plan easy to read, and easy to move onto a different task. Some
+examples of each of the steps of the plan are [what you want for some steps]. Make it
+short and to the point for each step and make it individual to each role. Make it easy to
+share with the group.
+### 2. Fill in placeholders
+Replace these with your specific information:
+-  [Project Description]- describe the project you need help planning and the basics of it
+- [timeline] - when you will start and when you need it done
+- [how many people] - how many people are in the group to help with the project
+- [roles] - the role of each person, names of the people and what they need to fulfil
+- [what you want for some of the steps] - explain examples of different action you need to take to complete the project
+
+## Example Use Cases
+See the `examples/` folder for three complete demonstrations:
+1. **[FRC robot](./examples/example-1.md)** -makes a plan to build an FRC robot from start to finish
+2. **[TSA competition](./examples/example-2.md)** -Creates a plan for making
+a website for the TSA
+competition
+3. **[Planning sweethearts dance](./examples/example-3.md)** - Making a plan for people
+who are planning the
+sweethearts dance
+
+Each example shows the filled prompt and resulting output.
+---
+## What Makes This Prompt Effective
+**easy to use:**
+The placeholders are clear and has good direction  
+
+**Accurate:**
+There is a lot of details so the AI knows almost exactly what you want  
+
+**Reusable**
+The prompt can be used for almost anything you need practice questions for
+
+
+## Limitations & Considerations
+**What This Prompt Does Well:**
+- Clarity
+- accuracy
+- Usability
+**What Requires Human Judgment:**
+- Guidance
+- decifering the placeholders
+**Always:**
+- be clear in what you want
+- accurately tell about your team
+- give clear examples
+---
+## Technical Details
+**Framework:** RICI
+**Optimal Model:** Google Gemini works well
+**Average Response Length:** depends on the length of the project, usually over 300 words
+**Required Placeholders:** all of them if you want it to be accurate
 
