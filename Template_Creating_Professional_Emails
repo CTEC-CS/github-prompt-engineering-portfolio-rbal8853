@@ -1,0 +1,20 @@
+# Writing Professional Emails Template  
+## Instructions for Use -- DELETE WHEN USING FOR ACTUAL PROMPT  
+This is only an example prompt template, so you may customize it to fit your  
+prompt.  
+However, your prompt here must at the very least include:  
+- Description of the prompt's purpose and usage  
+- A TASK statement of what the AI to do  
+- Your actual prompt, organized in meaningful categories, such as Context, Output,  
+Format, Constraints, etc.  
+- You must include [PLACEHOLDER] in square brackets and in caps.  
+---  
+## The Prompt  
+I work at [ Where you work ] and am writing an email to [person you're emailing] regarding [ what the email is about ] I would like it to be [ how many words in the email ]. Make the email [ friendly, professional, etc]. 
+**Placeholders**    
+- **Where you work:** write the job you are writing the email for.
+- **Person you're emailing:** The persons occupation as related to the email.
+- **What the email is about:** Write why you are writing the email and what you need in the email. 
+- **How many words in the email:** Put the number of words you want for the email, it will probably not be exact so give a rough estimate of the words you want, like less than 60.
+- **Friendly, professional, etc:** Write what you want the email to reflect.
+---  
